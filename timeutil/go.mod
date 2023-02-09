@@ -1,3 +1,3 @@
 module github.com/always-web/go-pkg/timeutil
 
-go 1.19
+go 1.17
